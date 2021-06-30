@@ -8,6 +8,9 @@ module.exports = {
     "gatsby-transformer-remark",
     "gatsby-plugin-mdx",
     "gatsby-plugin-postcss",
+    "gatsby-plugin-gatsby-cloud",
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
